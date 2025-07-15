@@ -1,0 +1,1 @@
+cmd /c "set BASE_DOMAIN=https://open.larkoffice.com&set APP_ID=cli_a8d4877363be100e&set APP_SECRET=UxADCefOByJkNyXKxbHvGhCZO3Mbd2**** echo_bot/python&bootstrap.bat"
